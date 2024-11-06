@@ -4,6 +4,8 @@ This Python script uses Selenium WebDriver to automate the process of navigating
 
 The script runs in the background and allows for user interaction. Once the user presses the Enter key, it will start the process of downloading files from the page. The script is designed to be used on a page like Patreon or similar sites where downloadable content is linked via specific keywords.
 
+NOTE: This tool can only be used to download content you've paid for. I do not support the redistribution of copyrighted content.
+
 **Requirements**
 
 - Python 3.x
